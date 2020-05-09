@@ -32,3 +32,7 @@ function cleanURL($url) {
 }
 
 ```
+
+## Testing
+
+Include the function above with the ```test.php``` file to test a bunch of different urls to view the results.
