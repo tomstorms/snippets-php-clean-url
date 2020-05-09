@@ -1,0 +1,1 @@
+# snippets-php-clean-url
